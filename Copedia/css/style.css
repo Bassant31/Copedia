@@ -1,0 +1,62 @@
+/* Override the default bootstrap behavior where horizontal description lists
+   will truncate terms that are too long to fit in the left column
+*/
+/*header*/
+.header{
+    background-image:url("../images/background.png");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center bottom;
+    background-attachment:fixed;
+}
+
+.text-hero{
+    min-height:60vh;
+    margin-top:40%;
+    margin-bottom:0%
+}
+
+.navbar {
+    background-color: #283754;
+}
+
+
+/*post-info
+*/
+.post-info{
+    background-image:url("../images/post-info.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    background-position:center center;
+}
+
+/*login */
+#login {
+   margin-top:160px;
+
+}
+
+#signup-user{
+  margin-top: 93px;
+}
+
+#signup-owner{
+    margin-top:93px;
+}
+
+.searchnav{
+  width: 400px;
+}
+
+
+.place-cards{
+  margin-top: 150px;
+}
+
+.image-carousel{
+  margin-top: 100px;
+}
+.t-owner{
+  margin-top: 150px;
+}
